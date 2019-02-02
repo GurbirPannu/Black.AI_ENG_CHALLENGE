@@ -2,9 +2,11 @@ ENG_CHALLENGE | <Gurbir>
 
 Electronics PSU Enclosure Design
 
-Final Assembly File : Design Challenge>Hardware>Final>Assembly1 
-Main 3D Parts       : Design Challenge>Hardware>Main Assembly>Enclosure_Top
-                    : Design Challenge>Hardware>Main Assembly>Enclosure_Bottom
+Final Assembly File   : Design Challenge>Hardware>Final>Assembly1 
+Main 3D Parts(sldpart): Design Challenge>Hardware>Main Assembly>Enclosure_Top
+                      : Design Challenge>Hardware>Main Assembly>Enclosure_Bottom
+STEP FIles            : Design Challenge>3D Print>STEP>Enclosure_Top_Print
+                      : Design Challenge>3D Print>STEP>Enclosure_BOTTOM_Print
 
 
 1.Your enclosure must allow for input via 240V mains power and an output of 12V.
